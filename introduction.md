@@ -3,3 +3,4 @@ My name is Daniel Stelle and I am an apprentice at Coding Zeal.  My favorite Cod
 *Git
 *JavaScript
 *Ruby
+*Killing history using git rebase
